@@ -33,9 +33,9 @@ const callFunction = (str, i) => {
   }
   return true;
 };
-const str = "adal";
+const str = "10";
 
 // console.log(revers(str));
 // console.log(reversWithTem(str));
 
-console.log(callFunction(str, 0));
+console.log(revers(str, 0));
